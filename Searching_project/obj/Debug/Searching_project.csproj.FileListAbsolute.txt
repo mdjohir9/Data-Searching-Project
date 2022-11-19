@@ -1,0 +1,11 @@
+D:\final_project\Searching_project\Searching_project\bin\Debug\Searching_project.exe.config
+D:\final_project\Searching_project\Searching_project\bin\Debug\Searching_project.exe
+D:\final_project\Searching_project\Searching_project\bin\Debug\Searching_project.pdb
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.csproj.AssemblyReference.cache
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.csproj.SuggestedBindingRedirects.cache
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.Form1.resources
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.Properties.Resources.resources
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.csproj.GenerateResource.cache
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.csproj.CoreCompileInputs.cache
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.exe
+D:\final_project\Searching_project\Searching_project\obj\Debug\Searching_project.pdb
